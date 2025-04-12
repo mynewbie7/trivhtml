@@ -22,7 +22,7 @@ text-align: center;
 
 h5 {
 color: #000;
-text-align: left;
+text-align: center;
 font-size: 11px;
 margin-bottom: -1px;
 }
@@ -47,7 +47,7 @@ color: #000000;
 table {
 border: 1px solid;
 border-color: #ccc;
-color: #00007F;
+color: #000;
 }
 
 td {
@@ -57,7 +57,7 @@ line-height: 1.5em;
 }
 
 th {
-color: #fff;
+color: #000;
 font-weight: bold;
 line-height: 1.6em;
 }
