@@ -4,19 +4,19 @@ color: #ccc;
 font-family:monospace;
 font-weight:600;
 font-size: 14px;
-scrollbar-base-color:#fff;
+scrollbar-base-color:#ffffff;
 scrollbar-arrow-color:#000000;
-scrollbar-DarkShadow-Color:#65B1B1;
+scrollbar-DarkShadow-Color:#800000;
 }
 
 html { 
-scrollbar-base-color:#009393;
+scrollbar-base-color:#ffffff;
 scrollbar-arrow-color:#000000;
-scrollbar-DarkShadow-Color:#65B1B1;
+scrollbar-DarkShadow-Color:#800000;
 }
 
 p {
-color: #fff;
+color: #ccc;
 font-weight: 600;
 }
 
@@ -38,11 +38,11 @@ font-weight: 600;
 }
 
 a:link {
-color: #009393;
+color: #800000;
 }
 
 a:visited {
-color: #009393;
+color: #800000;
 }
 
 a:hover {
