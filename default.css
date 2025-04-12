@@ -1,9 +1,4 @@
-abody {
-background-color: #000;
-color: #ccc;
-font-family:monospace;
-font-weight:600;
-font-size: 14px;
+body {
 scrollbar-base-color:#ffffff;
 scrollbar-arrow-color:#000000;
 scrollbar-DarkShadow-Color:#800000;
@@ -52,7 +47,6 @@ color: #ffffff;
 table {
 border: 1px solid;
 border-color: #ccc;
-background-color: #363737;
 color: #00007F;
 }
 
