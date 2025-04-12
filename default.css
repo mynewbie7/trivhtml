@@ -46,18 +46,18 @@ color: #800000;
 }
 
 a:hover {
-color: #20b2aa;
+color: #ffffff;
 }
 
 table {
 border: 1px solid;
-border-color: #009393;
+border-color: #ccc;
 background-color: #000;
 color: #00007F;
 }
 
 td {
-border-color: #009393;
+border-color: #ccc;
 font-weight: 900;
 line-height: 1.5em;
 }
