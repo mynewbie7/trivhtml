@@ -1,9 +1,9 @@
 body {
-background-color: #ecf1ef;
-color: #009393;
-font-family:Verdana, Arial, Helvetica, sans-serif;
+background-color: #000;
+color: #ccc;
+font-family:monospace;
 font-weight:600;
-font-size: 11px;
+font-size: 14px;
 scrollbar-base-color:#009393;
 scrollbar-arrow-color:#000000;
 scrollbar-DarkShadow-Color:#65B1B1;
